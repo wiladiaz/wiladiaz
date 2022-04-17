@@ -1,9 +1,8 @@
-### Welcome to my World !!! 👋
+### Welcome to my Dev-Space !!! 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=wdiazplus&show_icons=true&theme=dark)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=wdiazplus&show_icons=true&theme=dark)
 
 
-- 🌱 I’m currently learning ... Software Development +
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... @wdiazplus in all social media
+-  🇨🇴 I’m Software Developer 
+-  🤳 You can reach me as @wdiazplus in all social media
 
