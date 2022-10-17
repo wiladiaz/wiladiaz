@@ -20,10 +20,17 @@
 <h2> About me   </h2>
 <hr>
 <p>
-Mathematician  and Software developer with experience in support for apps in Ruby, managing in PostgreSQL and MongoDB Databases, developing in Python, JavaScript, services in AWS, and Linux servers. 
-</p>
-<p>
-Furthermore, I have worked with Scrum methodology and taught Math and Statistics to children and young in the last 10 years. 
+Mathematician  and Software developer with interest in: 
+-🐍 Python
+-🦫 Go
+-🐘 PostgreSQL
+-🐳 Docker
+-⛴️ Kubernetes
+-🥷 DevOps
+-🟠 AWS
+-🔵 GCP 
+
+More info in https://wilmer-diaz.super.site/
 </p>
 </div>
 
