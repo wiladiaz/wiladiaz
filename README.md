@@ -64,7 +64,7 @@ More info in https://wilmer-diaz.super.site/
 </br>
 <div align="center">
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=wdiazplus&show_icons=true&theme=dark" alt="Twitter">
+<img src="https://github-readme-stats.vercel.app/api?username=wiladiaz&show_icons=true&theme=dark" alt="Twitter">
 </a>
 </div>
 
