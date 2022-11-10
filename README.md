@@ -12,7 +12,7 @@
 
 <a href="https://www.linkedin.com/in/wiladiaz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> 
-<a href="https://twitter.com/wiladiaz" target="_blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/wiladiaz.svg?style=social&label=Follow%20%40wdiazplus" alt="Twitter">
+<a href="https://twitter.com/wiladiaz" target="_blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/wiladiaz.svg?style=social&label=Follow%20%40wiladiaz" alt="Twitter">
 </a>
 </div>
 
